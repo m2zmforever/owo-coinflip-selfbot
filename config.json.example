@@ -1,0 +1,15 @@
+{
+  "token": "YOUR_DISCORD_USER_TOKEN_HERE",
+  "channelId": "YOUR_CHANNEL_ID_HERE",
+  "owoId": "408785106942164992",
+  "owodmId": null,
+  "guess": "h",
+  "randomGuess": true,
+  "delayOptions": [14000, 21000],
+  "randomFlipCommands": true,
+  "strategy": "fixed",
+  "fixed_strat_Bet": 2000,
+  "martingale_strat_base_Bet": 2000,
+  "martingale_strat_max_Bet": 12000,
+  "loss_switch_strat_Bet": 2000
+}
